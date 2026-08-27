@@ -296,5 +296,14 @@
       "Something bad happened"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787818521.630577,
+    "completed_at": 1787818529.447525,
+    "comments": [
+      "Something bad happened"
+    ],
+    "status": "Incomplete"
   }
 ]
